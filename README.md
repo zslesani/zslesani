@@ -46,7 +46,7 @@ Computer Vision · Machine Learning Pipelines · Data Augmentation · Git/GitHub
 
 [Email](zslesnai@gmail.com)
 
-🔭 I’m currently working on machine learning projects focusing on data classification and model optimization.
+🔭 I’m currently working on deep learning projects focusing on data classification and model optimization.
 
 👯 I’m open to collaborate on AI-driven research projects and data analysis applications.
 
