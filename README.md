@@ -1,53 +1,52 @@
-Hi, I'm Zeinab 👋
+### 👋 Hi, I'm Zeinab
 
-I'm a Machine Learning researcher and Python developer with a unique background that bridges Computer Engineering and Physics.
-My main focus lies in applying deep learning and computer vision techniques to astronomical data, aiming to enhance the automation and precision of scientific discovery.
+I'm a **Machine Learning researcher** and **Python developer** with a background in Computer Engineering and Physics.
+My work focuses on applying **deep learning and computer vision** to **scientific data analysis**, especially in astronomy.
 
-🪐 Research & Technical Interests:
+---
 
-- Deep Learning & Computer Vision
-- Data Analysis & Time-Series Classification
-- Python Development and Data Visualization
-- Web Backend Development with Django (Model Deployment & API Integration)
+### 🪐 Research & Technical Interests
 
-🚀 Highlighted Projects:
+* Deep Learning & Computer Vision
+* Data Analysis & Time-Series Classification
+* Python Development & Data Visualization
+* Web Backend Development with Django
+* Android 
 
-- Exoplanet Detection using Vision Transformers (ViT)
- Developed an automated classification pipeline for detecting exoplanets from TESS light curves.
- The model achieved F1 = 0.89, Precision = 0.94, and Recall = 0.85, outperforming previous architectures.
+---
 
-- Occultation Timing Mobile App
- Designed the first mobile application for occultation and timing analysis — presented in Germany, the USA, and Russia.
- Awarded 2nd place in Iran’s national Saha Astronomy Software Competition.
+### 🚀 Highlighted Projects
 
-- HurTech (Startup Project)
- Founder and lead developer of HurTech, a selected project in the International Innovation Exhibition (INOTEX).
+* **Exoplanet Detection using Vision Transformers (ViT):**
+  Built an automated pipeline for classifying TESS light curves — *F1 = 0.89, Precision = 0.94, Recall = 0.85.*
+* **Occultation Timing Mobile App:**
+  Developed the first mobile app for occultation and timing analysis — presented internationally and awarded 2nd place in Iran’s Soha Astronomy Competition.
+* **HurTech (Startup):**
+  Founder and lead developer; selected for exhibition at INOTEX.
+* **Game Development:**
+  Member of an indie team recognized in a national game design competition.
 
-- Game Development
- Member of an indie game development team — awarded in a national game design competition.
+---
 
-🏆 Achievements & Presentations
-- Oral Presentation – 36th European Symposium for Occultation Projects (ESOP 2017) – Online, Germany
-   Presented the first mobile application for occultation timing.
-- Oral Presentation – International Occultation and Timing Association Annual Meeting (2017) – Online, USA
-   Introduced the occultation timing and measurement app for astronomical observations.
-- Poster Presentation – Eighth Moscow Solar System Symposium (2017) – Space Research Institute, Moscow
-- 2nd Place – Iran Soha Astronomical Application Competition (2018)
-- 2nd Place – INOTEX Digital Marketing Competition (2018)
-- Participant – Iran Game Developers Cup, Kashan.
+### 🏆 Achievements & Presentations
 
-🧠 Skills
+* Oral Presentation – ESOP 2017 (Germany)
+* Oral Presentation – IOTA Annual Meeting 2017 (USA)
+* Poster Presentation – Moscow Solar System Symposium 2017
+* 2nd Place – Soha Astronomical Application Competition (Iran)
+* 2nd Place – INOTEX Digital Marketing Competition
 
-Python · PyTorch · TensorFlow · NumPy · Pandas · Matplotlib · Scikit-learn ·
-Computer Vision · Machine Learning Pipelines · Data Augmentation · Git/GitHub
+---
 
+### 🧠 Skills
 
-🌍 Connect with Me:
+**Machine Learning:** PyTorch · TensorFlow · Scikit-learn
+**Data Science:** NumPy · Pandas · Matplotlib · Data Visualization
+**Web & DevOps:** Django · Git/GitHub
 
-[Email](zslesnai@gmail.com)
+---
 
-🔭 I’m currently working on deep learning projects focusing on data classification and model optimization.
+### 🌍 Connect with Me
 
-👯 I’m open to collaborate on AI-driven research projects and data analysis applications.
-
-- Exploring the intersection of machine learning and astrophysics — one dataset at a time.
+📫 Email: [zslesani@gmail.com]
+🤝 Open to collaborations in ML-based research and data-driven applications.
