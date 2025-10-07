@@ -41,7 +41,9 @@ My work focuses on applying **deep learning and computer vision** to **scientifi
 ### 🧠 Skills
 
 **Machine Learning:** PyTorch · TensorFlow · Scikit-learn
+
 **Data Science:** NumPy · Pandas · Matplotlib · Data Visualization
+
 **Web & DevOps:** Django · Git/GitHub
 
 ---
@@ -49,4 +51,5 @@ My work focuses on applying **deep learning and computer vision** to **scientifi
 ### 🌍 Connect with Me
 
 📫 Email: [zslesani@gmail.com]
+
 🤝 Open to collaborations in ML-based research and data-driven applications.
