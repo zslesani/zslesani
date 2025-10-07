@@ -11,7 +11,7 @@ My work focuses on applying **deep learning and computer vision** to **scientifi
 * Data Analysis & Time-Series Classification
 * Python Development & Data Visualization
 * Web Backend Development with Django
-* Android 
+
 
 ---
 
